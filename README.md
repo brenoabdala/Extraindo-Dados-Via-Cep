@@ -16,3 +16,5 @@ O script Python faz uma requisição à API do ViaCEP, obtém as informações d
 ### Tecnologias Utilizadas
 - <strong>Linguagem:</strong> Python.
 - <strong>Bibliotecas:</strong>
+  1. pymssql==2.3.0 – Para conectar e inserir dados no SQL Server.
+  2. requests==2.31.0 – Para realizar requisições HTTP à API ViaCEP.
